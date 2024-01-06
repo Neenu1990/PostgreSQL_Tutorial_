@@ -87,3 +87,10 @@ begin
 	   last_name, 
 	   payment;
 end $$;
+
+
+/*   PL/pgSQL Subblocks
+PL/pgSQL allows you to place a block inside the body of another block.
+
+The block nested inside another block is called a subblock. The block that contains the subblock is referred to as an outer block.*/
+
